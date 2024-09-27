@@ -1,5 +1,9 @@
 ## Hi there 👋
-hello
+THINGS THAT I LIKE: 
+- 🖨️3D Printing
+- 💻Coding
+- 💞Her
+
 <!--
 **JustCallMeMarko/JustCallMeMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
