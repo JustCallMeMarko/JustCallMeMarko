@@ -2,7 +2,6 @@
 - Hi! I'm Mark
 - Im a BSIT student, with passion with 3d modelling
 <br>
-<hr>
 
 ## Tech Stack
 <p align="left">
