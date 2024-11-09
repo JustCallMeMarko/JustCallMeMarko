@@ -1,4 +1,4 @@
-## Hello I'm Mark a first year BSIT Student
+## Hello I'm Mark 
 # About me👨‍💻
 - I'm a BSIT student, with a passion of 3D modelling and 3D Printing
 - I'm also a 3D artist freelancer that just started this year 2024
