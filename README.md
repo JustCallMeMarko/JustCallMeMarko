@@ -1,20 +1,21 @@
-## Mark Cantimbuhan
-THINGS THAT I LIKE: 
-- 🖨️3D Printing
-- 💻Coding
-- 💞Her
+# About me
+- Hi! I'm Mark
+- Im a BSIT student, with passion with 3d modelling
+<br>
+<hr>
 
-<!--
-**JustCallMeMarko/JustCallMeMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,blender,pycharm,vscode" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
