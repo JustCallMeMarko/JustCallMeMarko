@@ -14,7 +14,7 @@
 ## Tools 🔨
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode,github" />
   </a>
 </p>
 
