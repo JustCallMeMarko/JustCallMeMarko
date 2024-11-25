@@ -1,17 +1,17 @@
-## Hello I'm Mark 
-# About me👨‍💻
-- I'm a BSIT student, with a passion of 3D modelling and 3D Printing
-- I'm also a 3D artist freelancer that just started this year 2024
+# 👋 Hello I'm Mark 
+🧑‍💻 BSIT student, with a passion in microcontrollers and raspberry pi <br />
+🎨 3D artist that brings your imagination into reality<br />
+🌨️ Currently learning about AI and app development
 <br>
 
-## Tech Stack ⚙️
+# 💻 Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py" />
   </a>
 </p>
 
-## Tools 🔨
+# 🛠️ Tools 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode,github" />
