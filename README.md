@@ -12,11 +12,17 @@
   </a>
 </p>
 
-# 🛠️ Tools 
+# 🛠️ Tech Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode,androidstudio,github" />
   </a>
 </p>
 
+# OtherTools/Interests
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,blender" />
+  </a>
+</p>
 
