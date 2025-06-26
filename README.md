@@ -4,7 +4,7 @@
 🌨️ Currently learning about AI and app development<br />
 ⁉️ My Interests are IOT and Hardware side of computers
 <br>
-
+[![An image of @justcallmemarko's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/justcallmemarko)](https://holopin.io/@justcallmemarko)
 ## 💻 Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
