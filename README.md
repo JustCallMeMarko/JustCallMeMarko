@@ -11,14 +11,14 @@
 ## 💻 Tech Stack 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,java,py,mysql" />
   </a>
 </p>
 
 ## 🛠️ Tech Tools 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,pycharm,vscode,androidstudio,github" />
+    <img src="https://skillicons.dev/icons?i=figma,pycharm,fastapi,vscode,vite,nodejs,docker,androidstudio,firebase,github" />
   </a>
 </p>
 
