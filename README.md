@@ -36,7 +36,7 @@
      style="height: 250px; width: 250px;">
   </a>
  <a href="https://www.credly.com/badges/f7052788-b7e3-40cc-b240-568a355a23e4/public_url">
-    <img src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="IT Specialist Java Badge"
+    <img src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS Educate Machine Learning Foundations Badge"
      style="height: 250px; width: 250px;">
   </a>
 </p>
