@@ -39,7 +39,7 @@
     <img src="https://images.credly.com/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS Educate Machine Learning Foundations Badge"
      style="height: 250px; width: 250px;">
   </a>
- <a href="https://www.credly.com/badges/f7052788-b7e3-40cc-b240-568a355a23e4/public_url">
+ <a href="https://www.credly.com/badges/3a3cda19-71ea-41a5-845f-79cb9b20b893/public_url">
     <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge"
      style="height: 250px; width: 250px;">
   </a>
